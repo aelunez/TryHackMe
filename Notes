@@ -8,6 +8,14 @@ Investigating unusual or suspicious activity, such as strange logins
 Piecing together information to understand what has happened, when, and how
 Working with other teams to improve the organisation's defense.
 
+in my own words
+Security Analyst are defender for the company and sit with the team that monitor potential alert to see if they need to do any further action.
+seeing the activity that take place on the network
+piecing the puzzle pieces together to understand what is going on
+and team work help with the company defense
+
+
+
   What is a Security Engineering?
 At a high level, Security Engineers build and maintain the systems and processes that protect an organisation's network and devices and are known as the architects of cyber security.
 For example, a Security Engineer will be responsible for maintaining an Intrusion Detection System (IDS), which can be considered a security camera within an organisation's digital environment
@@ -16,6 +24,12 @@ Designing and maintaining security systems.
 Keeping up to date with the latest and greatest hacker techniques being used.
 Documenting processes and procedures.
 Assessing risk and making sure systems and applications are protected against vulnerabilities.
+
+In my own words
+Security Engineering help build and maintain the system and process that help defend the company network and devices and they are best known as architects for cyber security which would be responsible for help maintaining
+Intrusion Detection System (IDS)
+
+
 
   Penetration Testing
 Penetration testing or is considered as ethitcal hacking is to test how secure are the company's system and software by safely trying to break into them.
@@ -47,3 +61,40 @@ The internet is made up of many small networks all joined together. These small 
 a network can be one of the 2 types
 A private network
 A public network
+
+  Identifying Devices on a Network
+To communicate and maintain order devices must be both identifying and identifiable on a network. Devices on a network are very similar to human in the fact that we have two ay of being identified
+Our Name
+Our Fingerprint
+We can change our name through deed poll but we can't however change our fingerprints. Every human has an individual set of fingerprints which means that even if they change their name, there is still an identity behind it.
+Devices have the same thing two means of identification with one being permeable. these are 
+An Ip Address
+A Media Access Control (MAC) Address (think of this as being similar to a serial number)
+
+  Ip Addresses
+Ip address or (internet protocol) address can be used as a way of identifying a host on a network for a period of time, where that IP Address can then be associated with another device without the IP address changing.
+Ip address is a set of numbers that are divided into four octets. The value of each octet will summarise to be the IP address of the device on the network. This number is calculated through a technique kjnown as IP addressing & subnetting.
+IP address can change from device to device but cannot be active simultaneously more than once within the same network.
+IP Addresses follow a set of standards known as protocols. These protocols are the backbone of networking and force many devices to communicate in the same language.
+it can be both a private and pubic network depending on where they are will determine what type of IP address they have
+A Public address is used to identify the device on the internet, where a private address is used to identify a device amongst other devices.
+2 private ip addressed can communicate with each other however any data sent to the internet from either of the 2 ip address will be identified by the same public ip address.
+Public addresses are given by your Internet Service Provider (ISP) at a monthly fee (your bill)
+As more devices become connected it becomes increasingly harder to get a public address that isn't already in use. An example is Cisco a industry giant in the world of networking estimated that there would be approximately 50 billion devices connected
+on the internet by the end of 2021. 
+
+I learn only only one of the Internet Protocl addressing scheme known as IPv4 which uses a numbering system of 2^32 IP addresses (4.29 billion)
+
+Ipv6 is a new iteration of the INternet Protocol addressing scheme to help tackle this issue although it seemingly more daunting it boasts a few benefits
+  Supports up to 2^128 of IP addresses (340 trillion-plus), resolving the issues faced with IPv4
+  More efficient due to new methodologies
+Mac Addresses
+Devices on a newtork will all have a physical network interface which is a microchip board found on the device's motherboard. This network interface is assigned a unique address at the factory it was built at called a 
+MAC (Media Access Control) address. The MAC address is a twelve-character hexadecimal number (a base sixteen numbering system used in computing to represent numbers) split into two's and separated by a colon.
+The first six numbers are the network interface while the last six is a unique number.
+However an interesting thing with MAC addresses is that they can be faked or "spoofed" in a proccess known asd spoofing. Spoofing occurs when a networked device pretends to identify as another using its MAC address. When this occurs it can often vreak poorly implemented security designs that assumes
+that devices talking on a network are trustworthy. For an example take the following scenario: a firewall is configured to allow any communication going to and from the MAC address of the adminstrator. if a device were to pretend or "spoof" this MAC address,
+the firewall would now think that it is receiving communication from the adminstrator when it isn't.
+Places such as cafes coffee shops and hotels alike often use MAC address control when using their "Guest" or "Public" Wi-Fi.
+The configuration could offer better services, i.e. a faster connection for a price if you are willing to pay the fee per device.
+
