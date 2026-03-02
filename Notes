@@ -1,8 +1,49 @@
-  What is a Security Analyst
+  What is a Security Analyst?
 Security Analyst are often referred as to as digital defender of an organisation and sit with blue team ( blue team is a team who comprises cyber security and techonology professionals who aim to protect an information system  from impending cyber threats by performing and
-implementing defensive actions.) These people monitor investgate and piece together potential security incidents, known as alert, to decide if further action is needed and respond appropriately
+implementing defensive actions.) These people monitor investgate and piece together potential security incidents, known as alert, to decide if further action is needed and respond appropriately.
+An example of a potential security incident is an employee who works in the London office who suddenly logs in from another country. An investigation is required to determine if this is legitimate.
+  
 Monitoring activity taking place on the devices and network of the organisation
 Investigating unusual or suspicious activity, such as strange logins
 Piecing together information to understand what has happened, when, and how
 Working with other teams to improve the organisation's defense.
 
+  What is a Security Engineering?
+At a high level, Security Engineers build and maintain the systems and processes that protect an organisation's network and devices and are known as the architects of cyber security.
+For example, a Security Engineer will be responsible for maintaining an Intrusion Detection System (IDS), which can be considered a security camera within an organisation's digital environment
+
+Designing and maintaining security systems.
+Keeping up to date with the latest and greatest hacker techniques being used.
+Documenting processes and procedures.
+Assessing risk and making sure systems and applications are protected against vulnerabilities.
+
+  Penetration Testing
+Penetration testing or is considered as ethitcal hacking is to test how secure are the company's system and software by safely trying to break into them.
+They search for weaknesses and vulnerabilities and test if those can be exploited just like real hacker would, but in a safe controlled way. Everything is done under a agreement between company and the pentester. (this process is known as an engagement)
+
+Testing the security of computer systems, networks, and websites.
+Performing security assessments, audits, and analysing security policies.
+Analysing the results and creating reports, advising an organisation on how to prevent the attack from occurring
+
+  What is networking?
+Network are simplely things connected. For example, your friendship circle you are all connected because of similar interests, hobbies, skills and sort
+Networks can be found in all walks of life:
+
+A city's public transportation system
+Infrastructure such as the national power grid for electricity
+Meeting and greeting your neighbours
+Postal systems for sending letters and parce
+
+But more specifically, in computing, networking is the same idea, just dispersed to technological devices. Take your phone as an example; the reason that you have it is to access things. We'll cover how these devices communicate with each other and the rules that follow.
+In computing, a network can be formed by anywhere from 2 devices to billions. These devices include everything from your laptop and phone to security cameras, traffic lights and even farming
+Networks are integrated into our everyday life. Be it gathering data for the weather, delivering electricity to homes or even determining who has the right of way at a road. Because networks are so embedded in the modern-day, networking is an essential concept 
+to grasp in cybersecurity.
+
+  What is the internet
+The Internet is a giant network that consist of many smal network within itself. The first iteration of the internet was within the ARPANET project in the late 1960s.
+This project was funded by the United States Defence Department and was the first documented network in action. However it wasn't until 1989 when the Internet as we know it was invented by
+Tim Berners-Lee by the creation of the World Wide Web (WWW). It wasn't until this point that the Internet started to be used as a repository for storing and sharing information, just like it is today
+The internet is made up of many small networks all joined together. These small networks are called private networks, where networks connecting these small networks are called public networks or the internet.
+a network can be one of the 2 types
+A private network
+A public network
